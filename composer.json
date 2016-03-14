@@ -1,0 +1,15 @@
+{
+	"name": "cebe/assetfree-yii2",
+	"description": "A meta package that allows you to install yii2 without composer-asset-plugin.",
+	"type": "library",
+	"require": {
+		"php": ">=5.4.0",
+		"yiisoft/yii2": "=2.0.0"
+	},
+	"provide": {
+		"bower-asset/jquery": "*",
+		"bower-asset/jquery.inputmask": "*",
+		"bower-asset/punycode": "*",
+		"bower-asset/yii2-pjax": "*"
+	}
+}
