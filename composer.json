@@ -4,17 +4,19 @@
 	"type": "library",
 	"require": {
 		"php": ">=5.4.0",
-		"yiisoft/yii2": "dev-master"
+		"yiisoft/yii2": "~2.0.13.0"
 	},
 	"replace": {
 		"bower-asset/jquery": "*",
 		"bower-asset/jquery.inputmask": "*",
+		"bower-asset/inputmask": "*",
 		"bower-asset/punycode": "*",
 		"bower-asset/yii2-pjax": "*"
 	},
 	"conflict": {
 		"bower-asset/jquery": "*",
 		"bower-asset/jquery.inputmask": "*",
+		"bower-asset/inputmask": "*",
 		"bower-asset/punycode": "*",
 		"bower-asset/yii2-pjax": "*"
 	}
