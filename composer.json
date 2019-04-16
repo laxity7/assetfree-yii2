@@ -1,7 +1,8 @@
 {
-	"name": "cebe/assetfree-yii2",
+	"name": "laxity7/yii2-assets-free",
 	"description": "A meta package that allows you to install yii2 without composer-asset-plugin.",
 	"type": "library",
+	"license": "MIT",
 	"require": {
 		"php": ">=5.4.0",
 		"yiisoft/yii2": "dev-master"
